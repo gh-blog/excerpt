@@ -22,5 +22,10 @@
   "homepage": "https://github.com/gh-blog/excerpt",
   "dependencies": {
     "through2": "^0.6.1"
+  },
+  "gh-blog": {
+    "requires": ["info", "$", "content"],
+    "recommends": ["frontmatter", "status"],
+    "provides": ["excerpt"]
   }
 }
