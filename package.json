@@ -1,6 +1,6 @@
 {
   "name": "gh-blog-excerpt",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A gh-blog plugin that extracts a meaningful excerpt of a post",
   "main": "index.coffee",
   "scripts": {
